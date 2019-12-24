@@ -13,7 +13,7 @@
 
     ├── src                   
     │   ├── api # endpoint controllers
-    │   ├── db  # database file
+    │   ├── db  # database file (empty orders and users to start off with)
     │   ├── loaders # service start up logic
     │   ├── models  # db models
     │   ├── services    # endpoint business logic
