@@ -4,6 +4,7 @@
 
 ## Execution
 `npm start`
+
 `localhost:8080`
 
 ## Design Decisions
@@ -35,7 +36,7 @@ Using an ORM sped up development time by abstracting away the need to write SQL 
 
 ## Extra Credit
 
-## User Avatar
+### User Avatar
 
 I used a random image generator API ([Lorem Picsum](https://picsum.photos/)) to get a URL for each user on creation.
 
