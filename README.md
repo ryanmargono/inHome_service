@@ -11,6 +11,8 @@ node version 13.5 or ESM compatibility.
 
 `localhost:8080`
 
+The service will connect to the existing local database file inside `src/db/inhome.db`
+
 ## Design Decisions
 
 ### Folder Structure
