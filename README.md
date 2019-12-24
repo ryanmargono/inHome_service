@@ -1,4 +1,8 @@
 # README.md
+
+## Requirements
+node version 13.5 or ESM compatibility.
+
 ## Installation
 `yarn install`
 
